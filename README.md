@@ -8,11 +8,13 @@ Welcome to my digital greenhouse — where analytics meets advocacy, and dashboa
 
 I didn’t pivot into tech. I grew up in it.
 
-Before I turned 9, I was organizing file systems and launching custom Doom mods from the MS-DOS prompt — all while helping my dad run his business. For me, the command line wasn’t intimidating; it was home.
+While other kids were learning how to log on, I was already deep in the command line — organizing folders and launching Doom mods from MS-DOS to help my dad run his business.
+It wasn’t fancy — just floppy disks and black screens — but it felt like freedom.
+The keyboard was my map, and I loved the feeling of getting somewhere with just a few typed words.
 
-That wasn’t just a game — it was my first exposure to flags, scripts, hardware logic, and computational cause-and-effect. I didn’t know it at the time, but I was building the same technical muscles I’d later use for **data modeling, system diagnostics, and structured analytics**.
+That wasn’t just a game — it was my first exposure to flags, scripts, hardware logic, and computational cause-and-effect. I didn’t know it at the time, but I was building the same technical muscles I’d later use for data modeling, system diagnostics, and structured analytics.
 
-While others were customizing MySpace, I was deep in **Color Your Profile** — tweaking early HTML, embedding glitter GIFs, timing ASCII loaders to match AIM status updates. I learned to speak identity through code.
+Before Myspace, I was deep in Color Your Profile — tweaking early HTML, embedding glitter GIFs, timing ASCII loaders to match AIM status updates. I learned to speak identity through code.
 
 ---
 
@@ -44,7 +46,7 @@ My Substack ["Boula’s Bud Bar"](https://boulasbudbar.substack.com) blends **da
 
 🔗 [LinkedIn](https://www.linkedin.com/in/emboula)  
 📧 michelleleeboula@gmail.com  
-📅 [Calendly](https://calendly.com/yourlinkhere) — Book a call, collab, or just nerd out
+📅 [Calendly](https://calendly.com/michelleboula) — Book a call, collab, or just nerd out
 
 ---
 
