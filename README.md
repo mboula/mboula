@@ -1,3 +1,5 @@
+<img src="https://github.com/mboula/mboula/blob/main/GitHubBanner.png" alt="Michelle Boula GitHub Banner" width="100%" />
+
 ## Hi there 👋
 
 <!--
