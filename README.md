@@ -50,4 +50,19 @@ My Substack ["Boula’s Bud Bar"](https://boulasbudbar.substack.com) blends **da
 
 ---
 
+<hr>
+
+<h2>🛠️ Tools That Inspire This Work</h2>
+<p>
+  <strong><a href="https://www.cannlytics.com/" target="_blank">Cannlytics</a></strong> — Built by Keegan Skeate, Cannlytics is an open-source cannabis analytics suite for COA parsing, terpene modeling, and compliance tracking.
+  <br>
+  His mission to make cannabis data transparent and accessible shaped how I think about public tools, and sparked many of the dashboards and questions I explore here.
+</p>
+
+<p>
+  This section will grow with the tools and builders I learn from. Got a suggestion? Let’s connect!
+</p>
+
+---
+
 ✨ I don’t just do data — I debug the system. And I don’t just “know cannabis” — I live it, study it, and design **decision tools** from it. Let’s build something green and grounded.
