@@ -1,7 +1,6 @@
 <img src="https://github.com/mboula/mboula/blob/main/GitHubBanner.png" alt="Michelle Boula GitHub Banner" width="100%" />
 
-## Michelle Boula | Data Analyst • Systems Thinker • Cannabis & Civil Rights Tech
-
+## Michelle Boula | Data Analyst • Bridging Retail Trends & Cultivation Insights
 Welcome to my digital greenhouse — where analytics meets advocacy, and dashboards grow from lived experience.
 
 ### 💾 A Digital Life Rooted in the Old Internet
