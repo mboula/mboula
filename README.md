@@ -44,7 +44,7 @@ My Substack ["Boula’s Bud Bar"](https://boulasbudbar.substack.com) blends **da
 ### 📬 Let’s Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/emboula)  
-📧 michelleleeboula@gmail.com  
+📧 michelleeboula@gmail.com  
 📅 [Calendly](https://calendly.com/michelleboula) — Book a call, collab, or just nerd out
 
 ---
